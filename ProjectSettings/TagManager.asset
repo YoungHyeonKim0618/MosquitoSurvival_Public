@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Slime
+  - EXP1
+  - EXP5
+  - EXP25
+  - Wall
+  - Chest
+  - PlayerObtainCollider
+  - BounceWall
+  - Food
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SkillUnderSlimes
+    uniqueID: 2539795423
+    locked: 0
+  - name: Slimes
+    uniqueID: 2752397177
+    locked: 0
+  - name: ChampionSlimes
+    uniqueID: 4073411819
+    locked: 0
+  - name: BossSlimes
+    uniqueID: 4136645159
+    locked: 0
+  - name: SkillAboveSlimes
+    uniqueID: 1004228791
+    locked: 0
+  - name: Particles
+    uniqueID: 4293391735
+    locked: 0
+  - name: UIDamage
+    uniqueID: 104888433
+    locked: 0
+  - name: UI
+    uniqueID: 3625989987
+    locked: 0
